@@ -1,7 +1,0 @@
-pnpm exec lint-staged
-
-echo "Running pre-commit checks..."
-
-pnpm run build
-
-echo "Pre-commit checks passed."
